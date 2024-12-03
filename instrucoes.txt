@@ -1,0 +1,45 @@
+### PARTE 1 - Tarefas Gerais ###
+
+1. Acesse a aplicação "Galculator"
+2. Abra a imagem "maca.jpg" na pasta "Downloads"
+
+3. Abra o navegador "Falkon" -> Pesquise "Campinas" -> Abra o resultado da Wikipedia
+
+
+
+### PARTE 2 - Programação ###
+
+1. Abra o Gerenciador de arquivos e identifique o arquivo "hello_world.py"
+2. Abra o LXTerminal, cole o comando abaixo e dê enter:
+
+python3 hello_world.py
+
+4. Verifique se o terminal retornou a mensagem "Hello World!"
+
+
+### PARTE 3 - Programação Parte 2 ###
+
+1. Visite o endereço abaixo no navegador:
+
+https://github.com/BrunoR1907/tvbox
+
+2. Clique no botão verde "Code" e selecione a opção "Download ZIP"
+
+3. Com a opção "Salvar arquivo" selecionada, clique em "OK" e depois "Save"
+
+4. Navegue até a pasta "Downloads", clique com o botão direito do mouse
+no arquivo "tvbox-main.zip" e selecione a opção "Extrair aqui"
+
+5. Abra a pasta "tvbox-main" e clique duas vezes no arquivo "tvbox.py"
+
+6. Com o arquivo aberto no editor, volte ao navegador
+
+7. Copie a instrução logo abaixo do texto "Insira a linha abaixo na linha 6 do arquivo"
+
+8. Volte ao editor e cole a instrução na linha 6
+
+9. Salve o arquivo (botão Save, terceiro ícone superior)
+
+10. Rode o arquivo (botão play verde, logo após botão Save)
+
+11. Teste a calculadora de soma!
